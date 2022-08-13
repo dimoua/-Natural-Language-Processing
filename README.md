@@ -5,7 +5,7 @@ Für die Ausführung des Projektes Natural-language-Processing wurde in Git die 
 Die Requirement enthält die verschiedene Klasse, die für die Ausführung der Klasse in mybinder notwendig ist. Zudem, da mybinder bei der Notebookausführung auf klein und Großbuchstaben achtet, wurde die Excel Daten Name entsprechend angepasst.
 
 ## Beispiel der Übungsaufgabe
-Mit der Funktion info() wird aus der vordefinierte Dataframe yelp, die Information über die Datentype, die in der Tabelle bzw. Daten enthalten sind der Anzahl von Spalten, welche nicht ausgefüllt sind und die verschiedenen Namen des spalten mit dem dazugehörigen Index dargestellt.
+Mit der Funktion info() wird aus der vordefinierte Dataframe yelp, die Information über den Datentyp, welche in der Tabelle bzw. in der Datensatz enthalten sind der Anzahl von Spalten, welche nicht ausgefüllt sind und die verschiedenen Namen des spaltens mit dem dazugehörigen Index dargestellt.
 
 ## Funktionsausführung
 Auf der Notebook 3-Nlp_Projekt-Loesung.ipynb klicken.
