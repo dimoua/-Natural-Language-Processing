@@ -8,6 +8,8 @@ Die Requirement enthält die verschiedene Klassenbibliotheke Versionen, die für
 ## Beispiel der Übungsaufgabe
 Mit der Funktion info() wird aus der vordefinierte Dataframe yelp, die Information über den Datentyp, welche in der Tabelle bzw. in der Datensatz enthalten sind der Anzahl von Spalten, welche nicht ausgefüllt sind und die verschiedenen Namen des spaltens mit dem dazugehörigen Index dargestellt.
 
+<img width="255" alt="Natural-Language-Processing_3-Nlp_Projekt-Loesung ipynb" src="https://user-images.githubusercontent.com/62958158/184757423-e31ff08f-ecef-4a79-8874-172ebdbe9511.png">
+
 ## Funktionsausführung
 Auf der Notebook 3-Nlp_Projekt-Loesung.ipynb klicken.
 Restart der Kernel und Run das gesamte Notebook, damit alle Bibliotheken aufgeladen werden und somit die Funktion info() ausgeführt wird.
